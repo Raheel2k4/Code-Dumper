@@ -27,10 +27,6 @@ A simple yet powerful **Python script** that recursively walks through a folder,
 ### 2. Download the script
 Save the following code as `code_dumper.py` (or download from the repo).
 
-```python
-# (paste the final improved script from the previous answer here)
-```
-
 ### 3. Run it
 
 #### Interactive mode (recommended)
